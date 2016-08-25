@@ -1,6 +1,6 @@
 # Secret generator
 
-## How to install?
+## How to install
 `npm install`
 
 ## How to run
